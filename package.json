@@ -33,8 +33,7 @@
     "test": "tsc && jest && depcheck .",
     "tsc": "tsc",
     "prepublishOnly": "tsc",
-    "release": "semantic-release",
-
+    "release": "semantic-release"
   },
   "devDependencies": {
     "@commitlint/cli": "11.0.0",

@@ -25,7 +25,7 @@ Or add it to your `package.json` manually.
 ## Quickstart
 
 ```ts
-import { Configuration, TypeSuiteClient } from "typesuite";
+import { Configuration, TypeSuiteClient } from "@stedy-oss/typesuite";
 
 // You can fetch your credentials from your NetSuite instance
 // We recommend storing them somewhere secure like AWS Secrets Manager
